@@ -9,7 +9,7 @@
 # :man_technologist: About me:
 - 📌 Made in Brasília, Brazil
 - 🎓 Just graduated as Front End Developer
-- 📚 Currently studying Software Enginner as [Estácio](https://estacio.br/cursos/graduacao/engenharia-de-software)
+- 📚 Currently studying Software Enginner at [Estácio](https://estacio.br/cursos/graduacao/engenharia-de-software)
 </br>
 
 # 👨‍🎓 Currently doing:
