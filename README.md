@@ -13,8 +13,9 @@
 </br>
 
 # 👨‍🎓 Currently doing:
-- 💻 Improving my front end skills
-- 📈 learning PHP (back end)
+- 📈 Improving my front end skills
+- 🐘 learning PHP (back end)
+- 🐍 learning Python
 </br>
 
 # 🛠 Languages:
