@@ -15,8 +15,8 @@
 
 # 👨‍🎓 Currently doing:
 - 📈 Improving my front end skills
-- 🐘 learning PHP (back end)
-- 🐍 learning Python
+- 🐘 learning PHP (at SENAI)
+- 🐍 learning Python (self study)
 </br>
 
 # 🛠 Languages:
