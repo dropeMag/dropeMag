@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World, I'm Magalhães :wave:</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/107576199/187821904-76f2e881-5b24-4065-ae5f-c9bea5e08e65.jpg" alt="Imagem introdutória do meu README, falando meu nome e que serei um futuro engenheiro de software e devenvolvedor full stack" width="850px">
+  <img src="https://user-images.githubusercontent.com/107576199/200138804-0be21a2d-73e3-4899-b6d8-101ed373258e.jpg" alt="Imagem introdutória do meu README, falando meu nome e que serei um futuro engenheiro de software e devenvolvedor full stack" width="850px">
 </div>
 
 <h4 align="center"> :warning: CAUTION: studant is studying :warning: </h4>
