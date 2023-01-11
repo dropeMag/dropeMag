@@ -9,13 +9,13 @@
 # :man_technologist: About me:
 - 📌 Made in Brasília, Brazil
 - 🐶 Pet Parent 🐱
-- 🎓 Just graduated as Front End Developer
+- 🎓 Graduated as Front End Developer
 - 📚 Currently studying Software Enginner at <a href="https://estacio.br" target="_blank">Estácio</a>
 </br>
 
 # 👨‍🎓 Currently doing:
 - 📈 Improving my front end skills
-- 🐘 learning PHP (at SENAI)
+- 💾 learning DBA (self study)
 - 🐍 learning Python (self study)
 </br>
 
