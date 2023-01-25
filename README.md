@@ -14,8 +14,8 @@
 
 # 👨‍🎓 Currently doing:
 - 📈 Improving my Hard & Soft Skills
-- 💾 learning DBA (at SENAI)
-- 🐍 learning Python (self study)
+- 💾 learning DBA
+- 🐍 learning Python
 </br>
 
 # 🛠 Languages:
