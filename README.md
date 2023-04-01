@@ -8,11 +8,7 @@
 </h1>
 
 <p align="center">
-  Improving Python Skills
-  <img width="40px">
-  Doing College
-  <img width="40px">
-  Learning SQL at MySql
+  Improving Python Skills - Doing College - Learning SQL at MySql
 </p>
 
 </br></br></br>
@@ -26,13 +22,9 @@
 
 <div align="center">
   <img src="https://icongr.am/devicon/python-plain.svg?size=70&color=127369">
-  <img width="40px">
   <img src="https://icongr.am/devicon/pycharm-plain.svg?size=70&color=127369">
-  <img width="40px">
   <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=100&color=127369">
-  <img width="40px">
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=127369">
-  <img width="40px">
 </div>
 
 </br></br>
