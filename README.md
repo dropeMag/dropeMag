@@ -1,27 +1,56 @@
-<h1 align="center">Hello World, I'm Magalhães :wave:</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=12736900&height=160&section=header&text=Magalhães&fontAlignY=40&fontSize=90&animation=twinkling&fontColor=127369)
+
+
+<h1 align="center">
+  <img src="https://icongr.am/material/account-circle-outline.svg?size=30&color=127369">
+  Currently Doing
+  <img src="https://icongr.am/material/account-circle-outline.svg?size=30&color=127369">
+</h1>
+
+<p align="center">
+  Improving Python Skills
+  <img width="40px">
+  Doing College
+  <img width="40px">
+  Learning SQL at MySql
+</p>
+
+</br></br></br>
+
+
+<h1 align="center">
+  <img src="https://icongr.am/material/laptop-windows.svg?size=30&color=127369">
+  Languages and IDEs
+  <img src="https://icongr.am/material/laptop-windows.svg?size=30&color=127369">
+</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/107576199/200138804-0be21a2d-73e3-4899-b6d8-101ed373258e.jpg" alt="Imagem introdutória do meu README, falando meu nome e que serei um futuro engenheiro de software e devenvolvedor full stack" width="850px">
+  <img src="https://icongr.am/devicon/python-plain.svg?size=70&color=127369">
+  <img width="40px">
+  <img src="https://icongr.am/devicon/pycharm-plain.svg?size=70&color=127369">
+  <img width="40px">
+  <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=100&color=127369">
+  <img width="40px">
+  <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=127369">
+  <img width="40px">
 </div>
 
-# :man_technologist: About me:
-- 📌 Made in Brasília, Brazil
-- 🐶 Pet Parent 🐱
-- 🎓 Currently studying Software Enginner at <a href="https://estacio.br" target="_blank">Estácio</a>
-</br>
+</br></br>
 
-# 👨‍🎓 Currently doing:
-- 📈 Improving my Hard & Soft Skills
-- 💾 learning DBA
-- 🐍 learning Python
-</br>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=127369&height=100&section=footer)
 
-# 🛠 Languages:
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<div align="center">
+  <a href="mailto:pedro.magalhaes0717@gmail.com?subject=Contato%20do%20GitHub"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?&style=for-the-badge&schemaVersion=1&logo=GMail&color=127369&logoColor=white"></a>
+  <img width="30px">
+  <a href="https://www.linkedin.com/in/dropemag/"><img src="https://img.shields.io/badge/linkedin-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Linkedin&color=127369&logoColor=white"></a>
+  <img width="30px">
+  <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a>
 </div>
 
 ![snake gif](https://github.com/dropeMag/dropeMag/blob/output/github-contribution-grid-snake.svg)
+
+<h5 align="center">
+  fun fact: I
+  <img src="https://icongr.am/material/cards-heart.svg?size=15&color=127369">
+  gardening
+</h5>
