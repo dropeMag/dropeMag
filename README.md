@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Improving Python Skills - Doing College - Learning SQL at MySql
+  Improving Python Skills - Doing College - Improving MySql Skills - Creating my Portfolio
 </p>
 
 </br></br></br>
