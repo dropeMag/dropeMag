@@ -8,10 +8,11 @@
 </h1>
 
 <p align="center">
-  Improving Python Skills - Doing College - Improving MySql Skills - Creating my Portfolio
+  </br>
+  Improving Python Skills  -  Doing College  -  Improving MySql Skills  -  Creating my Portfolio
 </p>
 
-</br></br></br>
+</br></br>
 
 
 <h1 align="center">
@@ -36,7 +37,7 @@
   <img width="30px">
   <a href="https://www.linkedin.com/in/dropemag/"><img src="https://img.shields.io/badge/linkedin-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Linkedin&color=127369&logoColor=white"></a>
   <img width="30px">
-  <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a>
+  <!-- <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a> -->
 </div>
 
 ![snake gif](https://github.com/dropeMag/dropeMag/blob/output/github-contribution-grid-snake.svg)
