@@ -9,7 +9,7 @@
 
 <p align="center">
   </br>
-  Improving Python Skills  -  Doing College  -  Improving MySql Skills  -  Creating my Portfolio
+  Improving Python and SQL Skills  -  Doing College  -  Creating my Portfolio
 </p>
 
 </br></br>
@@ -47,3 +47,4 @@
   <img src="https://icongr.am/material/cards-heart.svg?size=15&color=127369">
   gardening
 </h5>
+
