@@ -42,9 +42,4 @@
 
 ![snake gif](https://github.com/dropeMag/dropeMag/blob/output/github-contribution-grid-snake.svg)
 
-<h5 align="center">
-  fun fact: I
-  <img src="https://icongr.am/material/cards-heart.svg?size=15&color=127369">
-  gardening
-</h5>
 
