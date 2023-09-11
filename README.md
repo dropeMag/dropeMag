@@ -41,10 +41,7 @@
 </div>
 
 ![github-user-contribution](https://github.com/dropeMag/dropeMag/assets/107576199/87702730-d113-4ebf-8d70-f2445ff9195f)
-
-
-
-
+<!--![dropeMag's github activity graph](https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake.svg)-->
 
 
 
