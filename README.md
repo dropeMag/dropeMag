@@ -2,33 +2,41 @@
 
 
 <h1 align="center">
-  <img src="https://icongr.am/material/account-circle-outline.svg?size=30&color=127369">
+  <img src="https://icongr.am/material/account-circle-outline.svg?size=20&color=127369">
   Currently Doing
-  <img src="https://icongr.am/material/account-circle-outline.svg?size=30&color=127369">
+  <img src="https://icongr.am/material/account-circle-outline.svg?size=20&color=127369">
 </h1>
 
 <p align="center">
   </br>
-  Improving Python and SQL Skills  -  Doing College  -  Creating my Portfolio
+  Improving my Python and SQL Skills  -  Focusing on my Portfolio  -  Doing College
 </p>
 
 </br></br>
 
 
 <h1 align="center">
-  <img src="https://icongr.am/material/laptop-windows.svg?size=30&color=127369">
-  Languages and IDEs
-  <img src="https://icongr.am/material/laptop-windows.svg?size=30&color=127369">
+  <img src="https://icongr.am/material/laptop-windows.svg?size=20&color=127369">
+  Languages and IDE's
+  <img src="https://icongr.am/material/laptop-windows.svg?size=20&color=127369">
 </h1>
 
+<p align="center">
+  </br>
+  SQL  -  Python  ||  Pycharm  -  VSCode  -  SQL SERVER
+</p>
+<p align="center">
+  I only have basic knowledge for now
+</p>
+<!--
 <div align="center">
   <img src="https://icongr.am/devicon/python-plain.svg?size=70&color=127369">
   <img src="https://icongr.am/devicon/pycharm-plain.svg?size=70&color=127369">
   <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=100&color=127369">
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=127369">
 </div>
-
-</br></br>
+-->
+</br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=127369&height=100&section=footer)
 
