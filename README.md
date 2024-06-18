@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=12736900&height=160&section=header&text=Magalhães&fontAlignY=40&fontSize=90&animation=twinkling&fontColor=127369)
+PERFIL PASSANDO POR REFORMA!
+
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=12736900&height=160&section=header&text=Magalhães&fontAlignY=40&fontSize=90&animation=twinkling&fontColor=127369)
 
 
 <h1 align="center">
@@ -48,13 +50,13 @@
   <!-- <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a> -->
 </div>
 
-<!--![github-user-contribution](https://github.com/dropeMag/dropeMag/assets/107576199/87702730-d113-4ebf-8d70-f2445ff9195f)
-![dropeMag's github activity graph](https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake.svg)-->
+![github-user-contribution](https://github.com/dropeMag/dropeMag/assets/107576199/87702730-d113-4ebf-8d70-f2445ff9195f)
+![dropeMag's github activity graph](https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dropeMag/dropeMag/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 
 
