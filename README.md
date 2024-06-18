@@ -37,7 +37,7 @@ PERFIL PASSANDO POR REFORMA!
   <img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=100&color=127369">
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=127369">
 </div>
--->
+
 </br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=127369&height=100&section=footer)
@@ -47,7 +47,7 @@ PERFIL PASSANDO POR REFORMA!
   <img width="30px">
   <a href="https://www.linkedin.com/in/dropemag/"><img src="https://img.shields.io/badge/linkedin-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Linkedin&color=127369&logoColor=white"></a>
   <img width="30px">
-  <!-- <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a> -->
+  <!-- <a href="https://www.instagram.com/drope.mag/"><img src="https://img.shields.io/badge/instagram-1DA1F2.svg?&style=for-the-badge&schemaVersion=1&logo=Instagram&color=127369&logoColor=white"></a>
 </div>
 
 ![github-user-contribution](https://github.com/dropeMag/dropeMag/assets/107576199/87702730-d113-4ebf-8d70-f2445ff9195f)
