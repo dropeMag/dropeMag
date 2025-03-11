@@ -1,24 +1,8 @@
 <h1 align="center">
-  PERFIL PASSANDO POR REFORMA!
+  PERFIL AINDA ATIVO, PORÉM DEPENDE!
 </h1>
 
-Olá, visitante,
 
-Peço desculpas pelo transtorno atual, pois estou reformulando completamente meu perfil. Estou trabalhando para organizar novos projetos, incluindo:
-  - Excel;
-  - Power BI;
-  - Python;
-  - SQL (SQL Server); e
-  - Pacote Office (Word e Power Point);
-
-Futuramente pretendo trazer R e SCALA também, mas vamos por partes.
-
-Para garantir uma melhor organização, todos os meus repositórios foram temporariamente privados.
-
-Agradeço pela compreensão durante este processo de renovação.
-
-Atenciosamente, </br>
-Pedro Magalhães.
 
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=12736900&height=160&section=header&text=Magalhães&fontAlignY=40&fontSize=90&animation=twinkling&fontColor=127369)
